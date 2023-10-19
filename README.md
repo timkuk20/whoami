@@ -1,1 +1,10 @@
-# whoami
+<div id="badges" aligh ="center">
+  <a href= "https://vk.com/samed0ff">
+    <img src = "https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK badge"/>
+    
+  </a>
+
+  <a href= "https://mail.google.com/mail/u/1/#inbox">
+     <img src = "https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="VK Badge"/>
+  </a>
+</div>
